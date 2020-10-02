@@ -40,11 +40,6 @@ class Teoria : AppCompatActivity() {
         newWord=newWord.replace("í","i")
         newWord=newWord.replace("ó","o")
         newWord=newWord.replace("ú","u")
-        newWord=newWord.replace("Á","a")
-        newWord=newWord.replace("É","e")
-        newWord=newWord.replace("Í","i")
-        newWord=newWord.replace("Ó","o")
-        newWord=newWord.replace("Ú","u")
         newWord=newWord.replace(" ","_")
         return newWord
 
