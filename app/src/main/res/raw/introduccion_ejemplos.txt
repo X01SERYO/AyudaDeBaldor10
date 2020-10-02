@@ -1,0 +1,13 @@
+3)  NOTACION ALGEBRAICA
+    -   55 es una cantidad conocida o detérminada.
+    -   159 es una cantidad conocida o detérminada.
+    -   99405 es una cantidad conocida o detérminada.
+    Cantidades conocidas representadas en letras:
+        -   a = 15.
+        -   b = 456887.
+        -   c = -8.
+        -   d = 0.
+    Cantidades descononocidas representadas en letras:
+        -   x.
+        -   y.
+        -   z.

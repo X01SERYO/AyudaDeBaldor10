@@ -1,0 +1,20 @@
+1,Introducción,Conceptos básicos para poder empezar.
+2,Suma,Operación aritmética que consiste en reunir varias cantidades en una sola.
+3,Resta,Operación aritmética que consiste en quitar una cantidad de otra.
+4,Signos de agrupación,Son aquellos que por su origen define cual es el orden de una operación.
+5,Multiplicación,Consiste en hallar el producto dadas dos cantidades númericas.
+6,División,.
+7,Productos y cocientes notables,.
+8,Teorema del residuo,.
+9,Ecuaciones entereas de primer grado con una incógnita,.
+10,Problemas sobre ecuaciones enteras de primer grado con una incógnita,.
+11,Descomposición factorial,.
+12,Máximo común divisor,.
+13,Mínimo común múltiplo,.
+14,Fracciones algebraicas. Reducción de fracciones,.
+15,Operaciones con fracciones algebraicas,.
+16,Ecuaciones númericas fraccionarias de primer grado con una incógnita,.
+17,Ecuaciones literales de primer grado con una incógnita,.
+18,Problemas sobre ecuaciones fraccionarias de primer grado. Problemas de los móviles,.
+19,Fórmulas,.
+20,Desigualdades. Inecuaciones,.

@@ -1,0 +1,12 @@
+1)  ALGEBRA es la rama de la matemática que estudia la canytidad considerada del modo más general posible.
+2)  CARACTER DEL ALGEBRA Y SU DIFERENCIA CON LA ARTIMETICA
+    El concepto de la cantidad en Algebra es mucho más amplio que en Aritmética.
+    En Aritmética las cantidades se representan por números y éstos expresan varolores determinados, Así, 20 expresa un solo valor: veinte; para expresar un valor mayor o menor que éste habrá que escribir un número distinto de 20.
+    En Algebra, para lograr la generalización las cantidades se representan por medio de letras, las cuales pueden representar todos los valores. Así, "a" representa el valor que nosotros le asignemos, y por tanto puede representar 20 o más de 20 o menos de 20, a nuestra elección aunque conviene advertir que cuando en un problema asignamos a una letra un valor determinado, esa letra no puede representar, en el mismo problema, otro valor distinto del que le hemos asignado.
+3)  NOTACION ALGEBRAICA
+    Los símbolos usados en el Algebra para representar las cantidades son los números y las letras.
+    Los números se emplean para representar cantidades conocidas y detérminadas.
+    Las letras se emplean para representar toda clase de cantidades, ya sean conocidas o desconocidas.
+    Las cantidades conocidas se expresan por las primeras letras del alfabeto: a, b, c, d...
+    Las cantidades desconocidas se representan por las últimas letras del alfabeto: u,v,w,x,y,z.
+    Una misma letra puede representar distintios valores diferenciadolos por medio de comillas; por ejemplo: a', a'', a''', que se lee "a prima", "a segunda", "a tercera" o también por medio de subíndices; por ejemplo: a1, a2, a3, que se leen "a subuno", "a subdos", "a subtres".
