@@ -49,6 +49,7 @@ class FormularioLogin : AppCompatActivity() {
                 contraseña.text.toString()
             )
             Log.v("CONSOLA",persona.toString())
+            finish()
         }
     }
 }
