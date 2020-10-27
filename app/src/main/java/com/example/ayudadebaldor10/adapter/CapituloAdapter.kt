@@ -8,6 +8,8 @@ import android.widget.ArrayAdapter
 import android.widget.TextView
 import com.example.ayudadebaldor10.R
 import com.example.ayudadebaldor10.model.Capitulo
+import com.example.ayudadebaldor10.model.Pregunta
+import java.util.ArrayList
 
 class CapituloAdapter(context: Context, val resource: Int, val data: ArrayList<Capitulo>) :
     ArrayAdapter<Capitulo>(context, resource, data) {

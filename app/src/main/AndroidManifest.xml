@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.ayudadebaldor10">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -9,7 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".activity.Teoria"></activity>
+        <activity android:name=".activity.FormularioLogin"></activity>
+        <activity android:name=".activity.Ejercicios" />
+        <activity android:name=".activity.TeoriaOEjemplos" />
         <activity android:name=".activity.SegundoInicio" />
         <activity android:name=".activity.Inicio" />
         <activity android:name=".activity.Login">

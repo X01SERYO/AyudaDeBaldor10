@@ -18,4 +18,10 @@ class Login : AppCompatActivity() {
         }
         startActivity(intent)
     }
+    fun onClickResgistrse(v: View) {
+        //cambio de activyty de Login a FormularioLogin
+        val intent = Intent(this, FormularioLogin::class.java).apply {
+        }
+        startActivity(intent)
+    }
 }

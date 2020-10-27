@@ -18,6 +18,7 @@ class Inicio : AppCompatActivity() {
         val adapter = CapituloAdapter(this, R.layout.lista_capitulos, readFile())
         chapterList.adapter = adapter
         chapterList.setOnItemClickListener { adapterView, view, i, l -> goToSegundoInicio(i) }
+
     }
 
     private fun readFile(): ArrayList<Capitulo> {

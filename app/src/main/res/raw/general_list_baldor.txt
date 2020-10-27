@@ -3,5 +3,4 @@
 3,Resta,Operación aritmética que consiste en quitar una cantidad de otra.
 4,Signos de agrupación,Son aquellos que por su origen define cual es el orden de una operación.
 5,Multiplicación,Consiste en hallar el producto dadas dos cantidades númericas.
-6,División,.
-7,Productos y cocientes notables,.
+6,División,Consiste en hallar el cociente dadas dos cantidades númericas.

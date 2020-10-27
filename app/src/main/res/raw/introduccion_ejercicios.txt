@@ -1,0 +1,3 @@
+3) NOTACIÓN ALGEBRAICA,radio,¿Que tipo de cantidad es 100?,cantidad conocida;cantidad conocida representada en letra;cantidad conocida representada en letra,cantidad conocida
+3) NOTACIÓN ALGEBRAICA,radio,¿Que tipo de cantidad es 200?,cantidad conocida;cantidad conocida representada en letra;cantidad conocida representada en letra,cantidad conocida
+3) NOTACIÓN ALGEBRAICA,radio,¿Que tipo de cantidad es 300?,cantidad conocida;cantidad conocida representada en letra;cantidad conocida representada en letra,cantidad conocida
