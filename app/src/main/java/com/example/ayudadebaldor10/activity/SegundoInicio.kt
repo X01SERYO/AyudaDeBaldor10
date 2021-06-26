@@ -18,7 +18,7 @@ class SegundoInicio : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_segundo_inicio)
         chapter = intent.getStringExtra("CHARPTER").toString()
-        titleChapterSecondView.text = chapter.toString()
+        titleChapterSecondView.text = chapter
         val adapter = ArrayAdapter(this, android.R.layout.simple_list_item_1, readFileOptions())
         optionsList.adapter = adapter
         optionsList.setOnItemClickListener { adapterView, view, i, l -> goToTeoria(i) }
